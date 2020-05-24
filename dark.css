@@ -77,11 +77,11 @@ pre {
 }
 
 pre {
-  @apply bg-blue-800 text-gray-200 !important;
+  @apply bg-black text-gray-200 !important;
 }
 
 code {
-  @apply font-code px-1 bg-teal-900 rounded-md break-words;
+  @apply font-code px-1 bg-purple-900 rounded-md break-words;
 }
 
 pre code {
@@ -89,7 +89,7 @@ pre code {
 }
 
 blockquote {
-  @apply pl-4 border-l-4 text-gray-600;
+  @apply pl-4 border-l-4 text-gray-400;
 }
 
 ol {
@@ -105,11 +105,11 @@ li {
 }
 
 th {
-  @apply font-medium table-cell border-2 border-blue-400;
+  @apply font-medium table-cell border border-gray-200 bg-indigo-900;
 }
 
 tr {
-  @apply bg-blue-800 border-2 border-blue-400 text-gray-200;
+  @apply bg-gray-800 border border-gray-200 text-gray-200;
 }
 
 th, td {
@@ -117,13 +117,14 @@ th, td {
 }
 
 tr:nth-child(2n) {
-  @apply bg-blue-700;
+  @apply bg-gray-700;
 }
 
 td {
-  @apply border-2 border-blue-400;
+  @apply border border-gray-200;
 }
 
 hr {
   @apply my-8 border-2;
 }
+
