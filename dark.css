@@ -21,7 +21,7 @@
 }
 
 .md-container {
-  @apply flex bg-gray-900 text-gray-200;
+  @apply flex min-h-screen bg-gray-900 text-gray-200;
 }
 
 .markdown-body {

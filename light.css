@@ -21,7 +21,7 @@
 }
 
 .md-container {
-  @apply flex w-full bg-white;
+  @apply flex w-full min-h-screen bg-white;
 }
 
 .markdown-body {
