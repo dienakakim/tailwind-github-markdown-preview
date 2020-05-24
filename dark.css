@@ -109,7 +109,7 @@ th {
 }
 
 tr {
-  @apply bg-blue-800 border-2 border-blue-400;
+  @apply bg-blue-800 border-2 border-blue-400 text-gray-200;
 }
 
 th, td {

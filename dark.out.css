@@ -19242,6 +19242,9 @@ tr {
   --border-opacity: 1;
   border-color: #63b3ed;
   border-color: rgba(99, 179, 237, var(--border-opacity));
+  --text-opacity: 1;
+  color: #edf2f7;
+  color: rgba(237, 242, 247, var(--text-opacity));
 }
 
 th, td {
