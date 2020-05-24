@@ -81,7 +81,7 @@ pre {
 }
 
 code {
-  @apply font-code px-1 bg-teal-700 rounded-md break-words;
+  @apply font-code px-1 bg-teal-900 rounded-md break-words;
 }
 
 pre code {
