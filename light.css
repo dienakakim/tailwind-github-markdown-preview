@@ -25,12 +25,12 @@
 }
 
 .markdown-body {
-  @apply px-0 py-12 font-default tracking-normal w-10/12 mx-auto;
+  @apply px-0 py-4 font-default tracking-normal w-10/12 mx-auto;
 }
 
 @screen lg { 
   .markdown-body {
-    @apply w-7/12 px-20;
+    @apply w-7/12 px-20 py-12;
   }
 }
 
